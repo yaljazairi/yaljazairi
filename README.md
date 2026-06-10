@@ -15,7 +15,7 @@ I enjoy designing infrastructure, automating workflows, and creating solutions t
 
 ## 💻 Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,githubactions,jenkins,python,bash,nginx,linux,java,spring,django,react,nodejs,js,ts,html,css,postgres,git,gitlab,github,vscode,pycharm)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,githubactions,jenkins,python,bash,nginx,linux,java,spring,django,react,nodejs,js,ts,html,css,postgres,git,gitlab,github)](https://skillicons.dev)
 
 ## ☁️ DevOps & Cloud
 
